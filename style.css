@@ -1,5 +1,5 @@
 .header {border: 30px solid purple;
-		width: 0px auto;
+		width: 1500px;
 		text-align: center;
 		margin: 0px auto;
 }
@@ -19,12 +19,11 @@
 		text-align: center;
 		margin: 0px auto;
 }
-.resume{border: 20px solid grey;
-		width: 0px auto:
-		text-align: center;
+.resume{border: 30px solid grey;
+		width: 1500px;
 		margin: 0px auto;
 		}
-.h2title{ text-align: center;
+.h2title{text-align: center;
 		text-decoration: underline;
 		}
 body {color: black;
@@ -41,8 +40,9 @@ p {color: black;
 	font-family: Veranda;
 }
 
-
-		
+#top {}
+#resume1 {}
+#footer1 {}		
 .footer {font-size: 16pt;
 		font-family: Veranda;
 		text-align: center;
