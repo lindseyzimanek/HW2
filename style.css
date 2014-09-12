@@ -1,18 +1,52 @@
+.header {border: 30px solid purple;
+		width: 0px auto;
+		text-align: center;
+		margin: 0px auto;
+}
+.aboutme{border: 30px solid orange;
+		width: 800px;
+		text-align: center;
+		margin: 0px auto;
+}
+.disneypic{ border: 30px solid pink;
+		height: 500px;
+		width: 350px;
+		text-align: center;
+		margin: 0px auto;
+}
+.thingsilove{border: 30px solid gray;
+		width: 800px;
+		text-align: center;
+		margin: 0px auto;
+}
+.resume{border: 20px solid grey;
+		width: 0px auto:
+		text-align: center;
+		margin: 0px auto;
+		}
+.h2title{ text-align: center;
+		text-decoration: underline;
+		}
 body {color: black;
-	background: purple;
+	background: yellow;
 	font-size: 16pt;
-	font-family: Veranda}
+	font-family: Veranda
+	}
 	
-div {background: white;}
+div {background: white;
+	font-family: Veranda;
+	}
 
-p {color: orange;}
+p {color: black;
+	font-family: Veranda;
+}
 
-h1.title {font-size: 24pt;
-	font-weight: bold;
-		text-align: center;}	
 
-h2.title {font-size: 20pt;
-		font-weight: normal;
-		text-decoration: underline;}
 		
-.footer {font-size: 10pt; text-align: center; line-height: 12pt; padding-top: 30pt}
+.footer {font-size: 16pt;
+		font-family: Veranda;
+		text-align: center;
+		line-height: 12pt;
+		padding-top: 30pt;
+		background: yellow;
+		}
